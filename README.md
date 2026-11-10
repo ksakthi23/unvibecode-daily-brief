@@ -1,4 +1,6 @@
 # UnvibeCode Daily Engineering Brief
+![GitHub Actions](https://github.com/ksakthi23/unvibecode-daily-brief/actions/workflows/unvibecode-pr.yml/badge.svg)
+
 
 **Understand code. Uncover connections. Ship confidently.**
 
