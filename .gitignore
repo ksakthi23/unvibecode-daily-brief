@@ -6,3 +6,4 @@ htmlcov/
 .pytest_cache/
 daily_brief.txt
 .DS_Store
+pr_daily_brief.txt
