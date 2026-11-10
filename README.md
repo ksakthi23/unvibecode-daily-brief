@@ -191,3 +191,9 @@ GitHub: https://github.com/ksakthi23
 ---
 
 *Built as part of the UnvibeCode Engineering Challenge 2026 — Track 2.
+
+## Sample Engineering Brief
+
+The following illustrative example demonstrates the report format produced by the tool:
+
+[View Sample Engineering Brief](examples/sample_engineering_brief.txt)
