@@ -41,6 +41,9 @@ unvibecode-daily-brief/
 │   └── workflows/
 │       └── unvibecode-pr.yml
 │
+├── examples/
+│   └── sample_engineering_brief.txt
+│
 ├── tests/
 │   ├── test_git_analyzer.py
 │   ├── test_brief_generator.py
